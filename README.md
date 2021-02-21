@@ -23,7 +23,7 @@
 - ✨ Tensorflow
 - ✨ Computer Vision
 - ✨ Algorithms
-- ✨ ans much more..
+- ✨ and much more..
 
 ### - Hobbies : 
 - ✨ Gaming
