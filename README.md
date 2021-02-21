@@ -58,16 +58,15 @@
 
 <br>
 
-<p>
-   <img src="https://raw.githubusercontent.com/shreyas2000/shreyas2000/master/assets/logo/Tensorflow.png" height=40 hspace=10>
-   <img src="https://raw.githubusercontent.com/shreyas2000/shreyas2000/master/assets/logo/git.png" height=40 hspace=10>
-   <img src="https://raw.githubusercontent.com/shreyas2000/shreyas2000/master/assets/logo/1200px-Jupyter_logo.svg.png" height=40 hspace=10>
-</p>
-
-
 
 
 # Contact ME 💬 :
+
+
+
+<h1 align="right"> Here's a joke for you😂</h1>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="400px"  align="right" />
+
 
 |S|o|c|i|a|l| 🌍|:||||
 | - | - | - | - | - | - | - | - | - | - | - |
@@ -82,4 +81,7 @@
 || | | | |`A` || | || |
 || | || |`I` || | | | |
 || | ||[ 📧](poharkarshreyas@gmail.com) |`L` || | | ||
+
+
+
 
