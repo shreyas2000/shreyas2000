@@ -57,7 +57,11 @@
 </h3>
 
 <br>
-
+<p>
+  <img src="https://raw.githubusercontent.com/shreyas2000/shreyas2000/master/assets/logo/Tensorflow.png" height=40 hspace=10>
+  <img src="https://raw.githubusercontent.com/shreyas2000/shreyas2000/master/assets/logo/git.png" height=40 hspace=10>
+  <img src="https://raw.githubusercontent.com/shreyas2000/shreyas2000/master/assets/logo/1200px-Jupyter_logo.svg.png" height=40 hspace=10>
+</p>
 
 
 # Contact ME 💬 :
