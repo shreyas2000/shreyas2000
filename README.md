@@ -1,23 +1,14 @@
-<p align="center">
+<!-- <p align="center">
   <br>
   <samp>
     Hello there! I'm <code><b>Shreyas Poharkar</b></code>.
     <br>I'm a <code>Chemical Engineering</code> Undergraduate Student from <code>India</code>.<br>
-
-</samp>
-
-  <img src="https://raw.githubusercontent.com/shreyas2000/shreyas2000/master/assets/miles_morales.gif" width="200"/>
-
-</p>
-
-
 
 
 # About ME 🙋‍♂️ :
 
 ### - I'm a self taught programmer who loves to experiment with stuff and work on projects.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/shreyas2000/shreyas2000/master/assets/1936.gif">
 
 ### -Currently Learning :
 - ✨ Tensorflow
@@ -89,3 +80,4 @@
 
 
 
+ -->
